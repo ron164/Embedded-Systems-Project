@@ -6,6 +6,7 @@ This repository contains a project of Autonoumous Obstacle avoidance Bot. In thi
 - Configure a Greengrass Core.
 - Publish sensor data using an AWS Greengrass device
 - Receive sensor data to the second Greengrass device
+![Alt text](/screenshot/Task1.png?raw=true "Task1")
 
 ## Task 2 : Implement target detection
 - Implementing a bot that finds targets randomly distributed in the scene with obstacles.
